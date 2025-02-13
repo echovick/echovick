@@ -38,7 +38,7 @@ Here are some of my favorite projects:
 - [Prolifi](https://github.com/echovick/prolifi): A scalable global payments and commerce platform.
 - [Peerbank](https://github.com/echovick/peerbank): A P2P lending and investment application.
 - [Bloodzone](https://github.com/echovick/bloodzone): A blood bank management system that won a ₦1M grant.
-- [CorpersConnect](https://github.com/echovick/corpersconnect): A social platform for NYSC members.
+- [HaloInvest](https://github.com/echovick/corpersconnect): A social platform for NYSC members.
 - [Hotel Management System](https://github.com/echovick/hotel-management): A SaaS-based hotel operations platform.
 
 ## Blog Posts
